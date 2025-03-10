@@ -1,7 +1,7 @@
 Summary:	Finds outdated running applications in your system
 Name:		tracer
 Version:	0.7.5
-Release:	3
+Release:	4
 License:	GPL v2+
 Source0:	https://github.com/FrostyX/tracer/archive/%{name}-%{version}-1/tracer-%{version}.tar.gz
 # Source0-md5:	6f3e8bba2a918f570ea6eb44db0aae09
